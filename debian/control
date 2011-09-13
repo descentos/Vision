@@ -1,0 +1,14 @@
+Source: slingshot-launcher
+Section: x11
+Priority: optional
+Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
+Vcs-Bzr: https://code.launchpad.net/~slingshot-devs/slingshot/slingshot
+Build-Depends: debhelper (>= 5), cdbs, cmake (>= 2.6), valac (>= 0.12), libglib2.0-dev (>= 2.22.0), libgtk2.0-dev (>= 2.22.0), libgee-dev (>= 0.5.3), libunique-dev (>= 0.9), libgnome-menu-dev, libwnck-dev
+Standards-Version: 3.8.4
+
+Package: slingshot-launcher
+Architecture: any
+Depends: ${misc:Depends}, libc6, libglib2.0-0 (>= 2.22.0), libgtk2.0-0 (>= 2.22.0), libunique-1.0-0 (>= 0.9), libgnome-menu2, libwnck22
+Description: Lightweight app launcher for elementary
+ Slingshot is a lightweight app launcher for elementary, written in Vala
+ and utilizing GTK+ and Cairo.

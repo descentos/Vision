@@ -1,0 +1,11 @@
+slingshot-launcher (0.0.1~pre-0~48~natty1) maverick; urgency=low
+
+  * Auto build.
+
+ -- elementary desktop team <elementaryart@lists.launchpad.net>  Sat, 07 May 2011 17:19:35 +0000
+
+slingshot-launcher (0.0.1~pre-0ubuntu1) maverick; urgency=low
+
+  * Initial packaging
+
+ -- Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>  Sun, 01 May 2011 17:37:04 +0400

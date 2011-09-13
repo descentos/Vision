@@ -1,0 +1,4 @@
+# bzr-builder format 0.3 deb-version {debupstream}-0~48
+lp:slingshot revid:mbarvian@comcast.net-20110220135306-kqwr72wvur8x63b0
+merge cmake-branch lp:~xapantu/slingshot/cmake revid:xapantu@gmail.com-20110223112238-814cttggqvw7ver0
+nest-part packaging-branch lp:~shnatsel/slingshot/deb-packaging debian debian revid:shnatsel@gmail.com-20110507170542-or20kbtlcymdr243
